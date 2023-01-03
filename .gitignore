@@ -1,0 +1,14 @@
+/__pycache__/*
+/cross_results_2015/*
+/cross_results_2016/*
+/dada/*
+/summary/
+/hyper_results/*
+/HyperEvalResults/*
+/results/*
+/Results_Run_Adversarial/*
+/summary/*
+/tempCodeRunnerFile.py/*
+/*.xml
+/*.txt
+/*.csv
